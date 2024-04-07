@@ -7,5 +7,5 @@ resources:
 images:
 - name: humancat-frontend-image
   newName: 471112665279.dkr.ecr.ap-northeast-2.amazonaws.com/humancat-frontend
-  newTag: "20240406.162242"
+  newTag: 0.0.1-front.00
 namespace: gitops
